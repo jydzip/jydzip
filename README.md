@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:1e1b3a,55:5b3fd0,100:ff8fd8&text=Rabbit%20Knight&fontColor=ffffff&fontSize=56&fontAlignY=38&desc=jydzip%20%C2%B7%20web developper%20%C2%B7%20designer%20%C2%B7%20motion&descSize=18&descAlignY=60&animation=fadeIn" alt="Rabbit Knight banner" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:1e1b3a,55:5b3fd0,100:ff8fd8&text=Rabbit%20Knight&fontColor=ffffff&fontSize=56&fontAlignY=38&desc=jydzip%20-%20web%20developer%20-%20designer%20-%20motion&descSize=18&descAlignY=60&animation=fadeIn" alt="Rabbit Knight banner" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=C4B5FD&center=true&vCenter=true&width=700&lines=%F0%9F%90%87+Hi%2C+I'm+jydzip+%E2%80%94+the+Rabbit+Knight;%3E+turning+ideas+into+interactive+experiences;%3E+building+tools%2C+apps+%26+creative+experiments;%3E+React+%2B+three.js+when+I+want+to+show+off)](https://git.io/typing-svg)
 
